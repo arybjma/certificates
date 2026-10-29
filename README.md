@@ -24,23 +24,3 @@ Kumpulan sertifikat pelatihan, kompetensi, dan kursus profesional yang telah say
 
 ---
 
-## 📂 Repository Structure
-
-Untuk merapikan file-file sertifikatmu di dalam repositori ini, pastikan susunan foldernya seperti berikut:
-
-```text
-certificates/
-├── README.md
-├── files/
-│   ├── Security Analyst - C3SA.pdf
-│   ├── Linux Essentials - Cisco.pdf
-│   ├── Linux Essentials (Course) - Cisco.pdf
-│   ├── SOC Analyst - Stellar.pdf
-│   ├── Komdigi.pdf
-│   ├── Linux Fundamentals.pdf
-│   └── Virtual Machine.pdf
-└── images/
-    ├── CIP - ICIP.png
-    ├── Aguna Course A.jpg
-    ├── Aguna Course B.jpg
-    └── Aguna Course C.jpg
