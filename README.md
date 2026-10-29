@@ -8,7 +8,7 @@ Kumpulan sertifikat pelatihan, kompetensi, dan kursus profesional yang telah say
 
 | No | Certificate Name | Issuer / Organization | Issue Date | Credential / Link |
 |---|---|---|---|---|
-| 1 | **Certified Cyber Security Analyst (C3SA)** | CyberWarfare Labs | 29 Oct 2026 | [View PDF](./files/Security%20Analyst%20-%20C3SA.pdf) |
+| 1 | **Certified Cyber Security Analyst (C3SA)** | CyberWarfare Labs | 29 Oct 2026 | [View PDF](Security%20Analyst%20-%20C3SA.pdf) |
 | 2 | **Linux Essentials** | Cisco Networking Academy / Digitalent Kominfo | 29 Oct 2026 | [View PDF](./files/Linux%20Essentials%20-%20Cisco.pdf) |
 | 3 | **Linux Essentials (Statement of Achievement)** | Cisco Networking Academy | 29 Oct 2026 | [View PDF](./files/Linux%20Essentials%20(Course)%20-%20Cisco.pdf) |
 | 4 | **Stellar Cyber SOC Analyst Associate** | Stellar Cyber | 31 Aug 2026 | [View PDF](./files/SOC%20Analyst%20-%20Stellar.pdf) |
